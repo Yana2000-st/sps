@@ -27,7 +27,7 @@
     height: 100%; }
   .side-menu__inside {
     z-index: 2;
-    position: absolute;
+    position: fixed;
     background-color: #FFFFFF;
     width: 100vw;
     max-width: 320px;
